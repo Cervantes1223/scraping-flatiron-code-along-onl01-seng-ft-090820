@@ -71,3 +71,4 @@ def profile
   students[student_index][:coder_cred].each {|link| puts link}
   puts ""
 end
+end 
